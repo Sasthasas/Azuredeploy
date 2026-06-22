@@ -63,4 +63,4 @@ jobs:
         with:
           app-name: 'SasthaIBPM'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_A21503E7327B46128EEC03C3D5A0E7D8 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4A6C1760220A4C3C902D101326B74C0A }}
